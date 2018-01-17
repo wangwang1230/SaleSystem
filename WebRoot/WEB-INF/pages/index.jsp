@@ -85,7 +85,6 @@
 								<input class="input-large span10" name="password" id="password" type="password" value="" />
 							</div>
 							<div class="clearfix"></div>
-
 							<!--  <div class="input-prepend">
 							<label class="remember" for="remember"><input type="checkbox" id="remember" />Remember me</label>
 							</div>-->
